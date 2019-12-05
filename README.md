@@ -21,9 +21,11 @@ Uncle Bob also introduced several other design principles, particularly for obje
 But he is not the first one that promotes SOLID. The SOLID acronym was introduced by Michael Feathers.
 
 Uncle Bob
+
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.tomordonez.com%2Fimages%2Frobert-uncle-bob-martin.jpg&f=1&nofb=1)
 
 Michael Feathers
+
 ![](http://agilesingapore.org/img/mfeathers.jpg)
 
 <br>
