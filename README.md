@@ -361,3 +361,5 @@ How to check if my SOLID practice is on the right track? Check if your program i
 ## Reference:
 1. [Design Principles and Design Patterns](https://web.archive.org/web/20150906155800/http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf)
 2. [SOLID, wikipedia](https://en.wikipedia.org/wiki/SOLID).
+
+© 2019 Harvey Li.
