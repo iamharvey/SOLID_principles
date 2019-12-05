@@ -1,4 +1,4 @@
-# SOLID Principals
+# SOLID Principles
 
 ## SOLID And History
 SOLID is a mnemonic acronym for five software design principles:
